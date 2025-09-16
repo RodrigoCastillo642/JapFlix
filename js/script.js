@@ -14,7 +14,7 @@ async function cargarPeliculas() {
 }
 
 // ============================================
-// Función para generar estrellas ⭐
+// Función para generar estrellas 
 // ============================================
 function generarEstrellas(voteAverage) {
   const maxStars = 5;
